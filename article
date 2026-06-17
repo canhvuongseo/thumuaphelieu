@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://phelieuhuyphat.com/tin-tuc/bai-viet-01"
+  },
+  "headline": "Tên bài viết",
+  "description": "Mô tả bài viết",
+  "image": "https://phelieuhuyphat.com/tin-tuc/anh-bia-bai-viet-01",  
+  "author": {
+    "@type": "Organization",
+    "name": "Phế Liệu Huy Phát"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": "2026-06-01"
+}
+</script>
