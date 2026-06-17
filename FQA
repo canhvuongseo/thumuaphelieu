@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Tôi không chắc số lượng có đủ điều kiện không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Cứ mô tả sơ bộ qua Hotline/Zalo, đội tư vấn xác nhận ngay. Huy Phát xuống khảo sát miễn phí, không cần cân đo trước."
+    }
+  },{
+    "@type": "Question",
+    "name": "Có nhiều loại phế liệu lẫn lộn, không phân loại sẵn thì sao?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Không cần chuẩn bị gì. Đội Huy Phát xuống phân loại tại chỗ, bóc tách từng loại để tính giá cao nhất cho từng hạng mục."
+    }
+  },{
+    "@type": "Question",
+    "name": "Giá chốt vào lúc nào — khi gọi điện hay khi cân xong?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Giá được khảo sát và chốt trực tiếp tại hiện trường trước khi cân. Không phát sinh thêm sau đó."
+    }
+  },{
+    "@type": "Question",
+    "name": "Chi phí vận chuyển và bốc xếp do ai chịu?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Huy Phát chịu toàn bộ — xe cẩu, xe tải, nhân công bốc xếp và dọn dẹp mặt bằng sau thu gom. Miễn phí 100%."
+    }
+  },{
+    "@type": "Question",
+    "name": "Có xuất hóa đơn VAT và chứng từ cân không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Có đầy đủ — hợp đồng kinh tế, hóa đơn VAT và biên bản cân điện tử lập ngay tại hiện trường."
+    }
+  }]
+}
+</script>
