@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Trang chủ",
+    "item": "https://phelieuhuyphat.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Cẩm nang Phế liệu Công nghiệp",
+    "item": "https://phelieuhuyphat.com/tin-tuc​"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Tên bài viết",
+    "item": "https://phelieuhuyphat.com/tin-tuc/bai-viet"  
+  }]
+}
+</script>
